@@ -1,6 +1,6 @@
 # Performance Analysis of an Open Queueing Network
 
-University project for **Computer Systems Performance** (Faculty of Electrical Engineering, University of Belgrade, 2025/2026). The assignment is described in [`info/projekat_2526.pdf`](info/projekat_2526.pdf).
+University project for **Computer Systems Performance** (srb. PRS - Performanse racunarski sistema), School of Electrical Engineering, University of Belgrade, 2025/2026.
 
 A multiprogramming computer is modeled as an **open queueing network**: a Poisson stream of jobs (rate α) arrives at a CPU, then moves between 3 system disks and K user disks according to fixed routing probabilities, and leaves after a user disk. The system is analyzed in two independent ways and the results are compared:
 
