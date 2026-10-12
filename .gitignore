@@ -1,0 +1,13 @@
+# IDE settings
+.idea/
+
+# Generated results
+output/
+plots/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
